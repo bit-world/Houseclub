@@ -64,7 +64,7 @@
 	<string name="event_expired">This event has already ended</string>
 	<string name="log_in_to_activate">Please log in again to activate your account.</string>
 	<string name="ok">OK</string>
-
+    <string name="mutual_followers_title">Mutual Followers</string>
 	<string name="search_people_hint">Find people</string>
 	<string name="search_clubs_hint">Find clubs</string>
 	<string name="search_btn_cancel">Cancel</string>
